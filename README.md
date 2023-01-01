@@ -1,3 +1,6 @@
+<img width="1440" alt="Schermata 2023-01-01 alle 12 27 13" src="https://user-images.githubusercontent.com/57111980/210180050-8edbc5c5-f600-4ec4-8548-89b583970e8c.png">
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
