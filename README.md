@@ -1,6 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-<img src="Schermata 2023-01-01 alle 12.27.13" alt"">
+![alt text](http://url/to/Schermata 2023-01-01 alle 12.27.13)
+
 ## Getting Started
 
 First, run the development server:
